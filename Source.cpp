@@ -1,4 +1,4 @@
-//Read Readme for instructions
+//Read Readme for instructions, Github version
 //Michael Karlsson, 1601924, Ti16SPeli, Programming and algorithms, Syksy 2018 HARJOITUSTYÖ
 // A* Toteutus
 #include<iostream>
